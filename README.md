@@ -16,7 +16,7 @@ Welcome to my GitHub! I am currently pursuing a Degree in Data Science at the Un
 * 🏈 **[NFL Big Data Bowl 2026 - CSOE](https://github.com/JorgeAcin/nfl-closing-speed-csoe):** Developed an advanced metric (CSOE - Closing Speed Over Expected) to evaluate NFL defenses using Python. (Kaggle Competition).
 * 🚑 **[Emergency Routes](https://github.com/JorgeAcin/emergency-routes):** AI-based system (NLP + mBERT) to optimize real-time triage and ambulance routing during disaster scenarios (e.g., DANA).
 * 🏠 **[Data Meets Home](https://github.com/JorgeAcin/data-meets-home):** Multivariate analysis, district clustering, and real estate price prediction in Valencia using LightGBM and Random Forest models in R (MAE: €25k, computed excluding the top 5% most expensive properties).
-* ⚽ **[Football Player Analytics](https://github.com/JorgeAcin/football-player-analytics):** Analysis of 2,600+ football players. Market value classification with **97% accuracy** (LDA) and goal prediction.
+* ⚽ **[Football Player Analytics](https://github.com/JorgeAcin/football-player-analytics):** Multivariate analysis of ~1,900 football players from the 2022-23 Big 5 European leagues in R: playing-style clustering (PCA + K-Means), market value classification with **97% accuracy** (LDA) and goal prediction (PLS).
 
 ### 📫 Connect with me
 
